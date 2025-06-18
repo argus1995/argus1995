@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [ariefagus.vercel.app](ariefagus.vercel.app)
 
-- 📝 I regularly write articles on [awgusmedia.com](awgusmedia.com)
-
 - 📫 How to reach me **ariefagus1995@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ariefagus1995/](https://www.linkedin.com/in/ariefagus1995/)
