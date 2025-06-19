@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React & Node.js**
 
-- 👨‍💻 All of my projects are available at [ariefagus.vercel.app](ariefagus.vercel.app)
+- 👨‍💻 All of my projects are available at [https://ariefagus.vercel.app](https://ariefagus.vercel.app)
 
 - 📫 How to reach me **ariefagus1995@gmail.com**
 
